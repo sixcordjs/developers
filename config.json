@@ -1,0 +1,7 @@
+{
+ "web": {
+     "domain_with_protocol": "",
+     "port": 8000,
+     "ratelimit": 30
+     }
+}
